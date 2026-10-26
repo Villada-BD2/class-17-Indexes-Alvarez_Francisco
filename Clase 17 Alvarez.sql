@@ -1,1 +1,0 @@
-drop trigger increase_number_of_medals
